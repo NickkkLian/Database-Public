@@ -1,0 +1,31 @@
+{
+  "dbId": "album-journal",
+  "title": "Album Journal",
+  "generatedAt": "2026-06-30T14:12:01.294Z",
+  "sections": [
+    {
+      "type": "t0",
+      "label": "T0 — Essential",
+      "items": [
+        {
+          "id": "mpa49uoqefcm",
+          "name": "The Dark Side of the Moon",
+          "summary": "Pink Floyd · 1973",
+          "category": "T0",
+          "content": "",
+          "tags": [],
+          "updatedAt": "2026-05-17T18:36:48.410Z"
+        },
+        {
+          "id": "mp9gmq96tbv6",
+          "name": "My Beautiful Dark Twisted Fantasy",
+          "summary": "Kanye West · 2010",
+          "category": "T0",
+          "content": "",
+          "tags": [],
+          "updatedAt": "2026-05-17T07:34:58.410Z"
+        }
+      ]
+    }
+  ]
+}
