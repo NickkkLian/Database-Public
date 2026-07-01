@@ -37,7 +37,12 @@
             "inuse"
           ],
           "updatedAt": "2026-06-28",
-          "links": []
+          "links": [
+            {
+              "label": "GitHub",
+              "url": "https://github.com/NickkkLian/Job-Tracker"
+            }
+          ]
         },
         {
           "id": "52b89356-dac3-4bad-a05b-1edcaf93a40d",
@@ -49,7 +54,12 @@
             "delivered"
           ],
           "updatedAt": "2026-06-17",
-          "links": []
+          "links": [
+            {
+              "label": "GitHub",
+              "url": "https://github.com/NickkkLian/Prof-Reference-System"
+            }
+          ]
         },
         {
           "id": "6ef6e29e-70a6-469f-880f-3c9995535c55",
