@@ -1,39 +1,8 @@
 {
   "dbId": "develop",
   "title": "开发日志台账",
-  "generatedAt": "2026-07-26T04:56:00.577Z",
+  "generatedAt": "2026-07-26T06:14:49.095Z",
   "sections": [
-    {
-      "type": "commercial",
-      "label": "商业项目",
-      "items": [
-        {
-          "id": "1745408b-f09c-4fcf-b5ef-19205100beb6",
-          "name": {
-            "zh": "去向实验室",
-            "en": "Scholar Outflow Lab"
-          },
-          "summary": {
-            "zh": "用 OpenAlex 公共数据量「本土起步的科研人员出去之后落在哪」，按目的国、目的高校、停留时长分层出榜。",
-            "en": "Measures where home-grown researchers actually end up after going abroad — by destination country, institution and length of stay, from OpenAlex open data."
-          },
-          "category": "商业项目",
-          "content": "Business-Lab 项目「移民咨询网」的零成本切片。数据源 OpenAlex（CC0 公共领域，免 key；免费额度每天 1000 次请求）；纯 Python 标准库抓取 + 单文件原生 JS 前端，零第三方依赖，静态托管在 GitHub Pages。当前覆盖中国来源国抽样 179,423 人（本土起步 134,865、有出海经历 17,626），出结果的目的国 29 个、高校 152 所。四个页签：路径匹配（学科×目的地×打算待多久，按留下率的 Wilson 95% 置信下界排序，小样本的侥幸高分自动掉下去）·目的国·高校榜·期刊会议（脚本就绪待生成）·口径。终局四分类互斥且合计 100%：留下／双挂／回流／转道——「双挂」单列是因为中国学者末位同时挂境外与国内机构极常见，不单列会同时高估两边。停留时长分层是核心：2–3 年那档以访问学者为主本来就要回国，不分层所有学校会被稀释成一样低（NYU 实测 2–3 年留下 9.1%、≥4 年 48.6%、≥6 年 58.8%）。页面「口径」页原样展示全部 20 条已知边界，不藏。",
-          "tags": [],
-          "links": [
-            {
-              "label": "GitHub",
-              "url": "https://github.com/NickkkLian/Scholar-Outflow-Lab"
-            },
-            {
-              "label": "Live",
-              "url": "https://nickkklian.github.io/Scholar-Outflow-Lab/"
-            }
-          ],
-          "updatedAt": "2026-07-25"
-        }
-      ]
-    },
     {
       "type": "volunteer",
       "label": "志愿项目",
@@ -156,6 +125,31 @@
             }
           ],
           "updatedAt": "2026-07-15"
+        },
+        {
+          "id": "1745408b-f09c-4fcf-b5ef-19205100beb6",
+          "name": {
+            "zh": "去向实验室",
+            "en": "Scholar Outflow Lab"
+          },
+          "summary": {
+            "zh": "用 OpenAlex 公共数据量「本土起步的科研人员出去之后落在哪」，按目的国、目的高校、停留时长分层出榜。",
+            "en": "Measures where home-grown researchers actually end up after going abroad — by destination country, institution and length of stay, from OpenAlex open data."
+          },
+          "category": "个人项目",
+          "content": "Business-Lab 项目「移民咨询网」的零成本切片。数据源 OpenAlex（CC0 公共领域，免 key；免费额度每天 1000 次请求）；纯 Python 标准库抓取 + 单文件原生 JS 前端，零第三方依赖，静态托管在 GitHub Pages。当前覆盖中国来源国抽样 179,423 人（本土起步 134,865、有出海经历 17,626），出结果的目的国 29 个、高校 152 所。四个页签：路径匹配（学科×目的地×打算待多久，按留下率的 Wilson 95% 置信下界排序，小样本的侥幸高分自动掉下去）·目的国·高校榜·期刊会议（脚本就绪待生成）·口径。终局四分类互斥且合计 100%：留下／双挂／回流／转道——「双挂」单列是因为中国学者末位同时挂境外与国内机构极常见，不单列会同时高估两边。停留时长分层是核心：2–3 年那档以访问学者为主本来就要回国，不分层所有学校会被稀释成一样低（NYU 实测 2–3 年留下 9.1%、≥4 年 48.6%、≥6 年 58.8%）。页面「口径」页原样展示全部 20 条已知边界，不藏。",
+          "tags": [],
+          "links": [
+            {
+              "label": "GitHub",
+              "url": "https://github.com/NickkkLian/Scholar-Outflow-Lab"
+            },
+            {
+              "label": "Live",
+              "url": "https://nickkklian.github.io/Scholar-Outflow-Lab/"
+            }
+          ],
+          "updatedAt": "2026-07-26"
         }
       ]
     }
