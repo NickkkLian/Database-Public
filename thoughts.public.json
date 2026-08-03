@@ -1,18 +1,43 @@
 {
   "dbId": "thoughts",
   "title": "思维库 · Mind Archive",
-  "generatedAt": "2026-07-25T19:44:25.722Z",
+  "generatedAt": "2026-08-03T06:24:34.782Z",
   "sections": [
     {
       "type": "essay",
       "label": "随笔",
       "items": [
         {
-          "id": "ms0pwu52zn5j3",
-          "name": "鹿先生",
+          "id": "mscsbz1wsrajv",
+          "name": {
+            "zh": "桔梗花消逝的秋天",
+            "en": "Autumn When the Bellflowers Fade"
+          },
           "summary": "",
           "category": "随笔",
-          "content": "“一千零七，一千零八。”\n山顶的鹿先生打了个哈欠，继续数着今天见到的两脚兽们。不过他数的不是头，而是脚——抬头多累啊。\n\n眼前这只新来的两脚兽没有要掏出鹿饼的意思。\n\n他照例嚼着草，低下头看山脚下的奈良公园。那里也有一群同类，个个膘肥体壮，都懒懒地趴在路边，哪还有点鹿的样子。“一点追求都没有，”鹿先生想，“要是我每天也有吃不完的鹿饼，我肯定能有力气去山的那头看看，而不是像这群傻子一样只知道晒太阳。”\n\n想到这里他又打了个哈欠。今天下了点雨，上山的两脚兽更少了。\n鹿饼也更少了。\n\n“不如我也下山吧，”他把嚼得发苦的叶片吐到一边，“爷爷说得对，清高不能当鹿饼吃。”山顶的微风很舒服，可惜吹进嘴里还是那股臭烘烘的泥巴味儿。烦死鹿了。他砸吧砸吧嘴，“算了。下山的路还挺远的——我的膝盖可不能磨吐噜皮了。”\n\n再说了，今天还下着雨呢。\n“明天吧，明天就下去。”\n鹿先生瞟了一眼头顶上转圈的乌鸦，打了第三个哈欠，躺下了。\n\n眼前这只新来的两脚兽还是没有要掏出鹿饼的意思。",
+          "content": {
+            "zh": "这是一位旧时代的侦探最后的怒吼。\n\n监控布满了大街小巷，DNA技术日渐成熟。\n\n人们不再需要这位远近闻名的金牌侦探了。\n\n他也许还是想发光的，可是属于他的时代只剩下太阳落山前最后的余晖了。他就像一根快要燃尽的蜡烛，火焰将熄，他抱紧了引线，努力地想让自己燃烧得更久一些，再久一些。没有人在意它。火炬尚能传递人们的信念，是精神世界的光。可他呢，他什么都没有。他被抛弃了。\n\n他尝试过挣扎。他拼命追赶着，他放不下他过往的辉煌。他的情绪开始极端，他风平浪静的海面下波涛汹涌。\n\n他是冰山一角。\n\n可他的冰山已经在所有人面前展露无疑。\n\n他的一角在海平面之下。他是倒立的冰山。\n\n海浪还在不断往前，扑倒了他和他仅存的骄傲。\n\n新时代没有能容得下他的船了。\n\n川岛漱清开着白色丰田卡罗拉上了悬崖。\n“该下线了。”他看着远处的森林，不知道在跟谁说话。\n他走了下去。就像第一次走出警视厅那样。",
+            "en": "This is the final roar of a detective from a bygone era.\n\nSurveillance cameras now blanket every street and alley; DNA technology grows more mature by the day.\n\nPeople no longer have need of this once far-famed, gold-medal detective.\n\nPerhaps he still wished to shine, but all that remained of his era was the last glow before the sun sank below the horizon. He was like a candle nearly burned to its end—its flame about to die—clutching the wick tight, straining to burn on a little longer, and then a little longer still. No one paid it any mind. A torch can still pass on people's convictions, can still be a light in the world of the spirit. But he—he had nothing at all. He had been cast aside.\n\nHe had tried to struggle on. He chased after it with all his might, unable to let go of the glory that once was his. His moods began to turn extreme; beneath the calm surface of his sea, the waves ran wild.\n\nHe was the tip of an iceberg.\n\nBut his iceberg had already laid itself bare before everyone's eyes.\n\nHis hidden portion lay beneath the surface of the sea. He was an iceberg turned upside down.\n\nThe waves kept rolling forward, knocking down both him and the last pride he had left.\n\nThe new era had no ship large enough to hold him.\n\nKawashima Sokiyo drove his white Toyota Corolla up to the cliff's edge.\n\"Time to log off.\" He gazed at the distant forest, not knowing to whom he spoke.\n\nHe stepped down and out. Just as he had, once, the very first time he walked out of police headquarters."
+          },
+          "lang": "zh",
+          "tags": [],
+          "date": "2024-05-23",
+          "image": "",
+          "updatedAt": "2026-08-03T05:25:13.712Z"
+        },
+        {
+          "id": "ms0pwu52zn5j3",
+          "name": {
+            "zh": "鹿先生",
+            "en": "Mr. Deer"
+          },
+          "summary": "",
+          "category": "随笔",
+          "content": {
+            "zh": "“一千零七，一千零八。”\n山顶的鹿先生打了个哈欠，继续数着今天见到的两脚兽们。不过他数的不是头，而是脚——抬头多累啊。\n\n眼前这只新来的两脚兽没有要掏出鹿饼的意思。\n\n他照例嚼着草，低下头看山脚下的奈良公园。那里也有一群同类，个个膘肥体壮，都懒懒地趴在路边，哪还有点鹿的样子。“一点追求都没有，”鹿先生想，“要是我每天也有吃不完的鹿饼，我肯定能有力气去山的那头看看，而不是像这群傻子一样只知道晒太阳。”\n\n想到这里他又打了个哈欠。今天下了点雨，上山的两脚兽更少了。\n鹿饼也更少了。\n\n“不如我也下山吧，”他把嚼得发苦的叶片吐到一边，“爷爷说得对，清高不能当鹿饼吃。”山顶的微风很舒服，可惜吹进嘴里还是那股臭烘烘的泥巴味儿。烦死鹿了。他砸吧砸吧嘴，“算了。下山的路还挺远的——我的膝盖可不能磨吐噜皮了。”\n\n再说了，今天还下着雨呢。\n“明天吧，明天就下去。”\n鹿先生瞟了一眼头顶上转圈的乌鸦，打了第三个哈欠，躺下了。\n\n眼前这只新来的两脚兽还是没有要掏出鹿饼的意思。",
+            "en": "\"One thousand and seven, one thousand and eight.\"\nMr. Deer atop the mountain gave a yawn and went on counting the two-legged beasts he'd seen that day. Though he wasn't counting heads, but legs—lifting his head was such a bother.\n\nThe newly arrived two-legged beast before him showed no sign of producing a deer cracker.\n\nHe chewed on his grass as usual, gazing down at Nara Park at the foot of the mountain. There too was a herd of his own kind, every one of them fat and sleek, sprawled lazily by the roadside—hardly deer-like at all anymore. \"Not a shred of ambition,\" thought Mr. Deer. \"If I had endless deer crackers to eat every day, I'd surely have the strength to go see what lies beyond the mountain, instead of just basking in the sun like that pack of fools.\"\n\nAt this thought he yawned again. It had rained a little today, and fewer two-legged beasts had come up the mountain.\nFewer deer crackers too.\n\n\"Might as well go down the mountain myself,\" he said, spitting out the leaf he'd been bitterly chewing. \"Grandfather was right—you can't eat pride for a deer cracker.\" The breeze atop the mountain was pleasant enough, but a pity it still carried that same rank smell of mud when it entered his mouth. Deer-forsaken nuisance. He clicked his tongue. \"Ah, forget it. The way down is quite far—can't have my knees worn raw.\"\n\nBesides, it was still raining today.\n\"Tomorrow, then. I'll go down tomorrow.\"\nMr. Deer glanced up at the crow circling overhead, gave a third yawn, and lay down.\n\nThe newly arrived two-legged beast before him still showed no sign of producing a deer cracker."
+          },
+          "lang": "zh",
           "tags": [],
           "date": "2024-06-28",
           "image": "https://raw.githubusercontent.com/NickkkLian/Database-Public/main/thoughts-images/1785005036593_hdwt.jpg",
