@@ -1,12 +1,30 @@
 {
   "dbId": "thoughts",
   "title": "思维库 · Mind Archive",
-  "generatedAt": "2026-08-03T06:24:34.782Z",
+  "generatedAt": "2026-08-03T06:26:22.604Z",
   "sections": [
     {
       "type": "essay",
       "label": "随笔",
       "items": [
+        {
+          "id": "mscuilwwshist",
+          "name": {
+            "zh": "闪耀",
+            "en": "Shimmer"
+          },
+          "summary": "",
+          "category": "随笔",
+          "content": {
+            "zh": "凌晨3:27\n\n今年的雪还是没有来。\n\n打开车门时有明显的阻塞感，用力一拉，嘎吱嘎吱响，一层薄薄的冰碴子就排着队跳下来。亮晶晶的。\n\n长出一口气，一溜白色飘了出去。\n\n叹息能被看到了。\n\n想起前年这个时候第一次看温哥华的雪，朋友圈的文案是“煮酒温茶，敬颂冬绥”。其实我也不知道这句话是什么意思。好像在哪里看到过，它又正好在我拍那几张雪景时从不知道什么地方冒出来，感觉很合适。\n\n去年几乎没有雪，今年似乎也不会有太多了。金子般的日子里，时间好像失去了厚度，变得像车门上的冰碴子一样轻盈了。时间是连续的，新的一年也会一切如常，跨年的零点不是人生的分割符。不过总要有些企盼；在漫长的岁月里，这样的企盼随时光沉淀下来，会愈发摄人心魄。\n\n关上车门还能再看一次那层冰碴子。\n\n夜间的气温足以让它们就这样沿着车沿的弧线闪耀下去，直到太阳升起。\n\n像一条河。银河。\n\n于是那句话也没来由的冒了出来。\n\n“整个宇宙将为你闪烁”",
+            "en": "3:27 a.m.\n\nThe snow still hasn't come this year.\n\nWhen I opened the car door there was a distinct resistance, and when I pulled harder it creaked, and a thin crust of ice chips came leaping down in a little procession. Glittering.\n\nI let out a long breath, and a streak of white drifted away.\n\nSo a sigh can be seen, after all.\n\nIt reminds me of the year before last, the first time I watched the snow fall in Vancouver, when the caption I wrote for my friends was \"warm the wine, steep the tea, and greet the winter's peace.\" I don't really know what that line means. I think I'd seen it somewhere once, and it simply surfaced from nowhere just as I was taking those snow photos, and it felt fitting.\n\nLast year there was almost no snow, and this year it seems there won't be much either. In these golden days, time seems to have lost its weight, grown as light as the ice chips on the car door. Time is continuous; the new year, too, will go on as always—the stroke of midnight is no dividing line in a life. And yet there must always be something to look forward to; across the long years, such anticipation settles like sediment in time, and grows only more haunting.\n\nI shut the car door, and I can see that layer of ice once more.\n\nThe night air is cold enough to let it go on shimmering along the curve of the car's edge, all the way until the sun comes up.\n\nLike a river. The Milky Way.\n\nAnd then that line surfaces again, for no reason at all.\n\n\"The whole universe will glimmer for you.\""
+          },
+          "lang": "zh",
+          "tags": [],
+          "date": "2024-12-10",
+          "image": "",
+          "updatedAt": "2026-08-03T06:26:08.500Z"
+        },
         {
           "id": "mscsbz1wsrajv",
           "name": {
