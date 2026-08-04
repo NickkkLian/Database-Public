@@ -1,12 +1,30 @@
 {
   "dbId": "thoughts",
   "title": "思维库 · Mind Archive",
-  "generatedAt": "2026-08-03T06:30:23.211Z",
+  "generatedAt": "2026-08-04T05:04:30.138Z",
   "sections": [
     {
       "type": "essay",
       "label": "随笔",
       "items": [
+        {
+          "id": "mse5zkmjpgux5",
+          "name": {
+            "zh": "无尽夏的谎言",
+            "en": "The Lie of Endless Summer"
+          },
+          "summary": "",
+          "category": "随笔",
+          "content": {
+            "zh": "千禧年无尽的夏天结束了。\n\n秋风吹过逐渐凋零的花海，带走了无尽夏的谎言，吹散了思念和回忆。\n… …\n\n许久未见的昔日少年们再次聚集在那栋旧部屋里。\n他们都已长大，身边带着的是一群如他们当年那般意气风发的孩子们。为首的中年男子缓缓开口，给孩子们讲述当年的故事。孩子们饶有兴致地听着，时不时作思考状，插上几句嘴，抢着回答中年男子提出的小谜题。\n\n“如果凶手不是他，这朵「无尽夏」为什么会出现在现场呢？”\n\n那个一看就是孩子王的少年滴溜溜转着小眼珠子。\n突然，他好像想到了什么，眼神亮了起来。\n\n“一定是妖怪杀人！”\n\n屋内，小方桌上，方糖在咖啡杯里旋转、湮灭。\n立在一边的木质相框有些旧了，幸好似乎是被精心擦拭过，看上去很干净。照片中，少年们的背影依然雀跃、充满希望。\n一如照片外，在桌旁围坐的小家伙们。\n\n屋外，风起，又一程盛夏。\n无尽的蓝色花海依旧幽深，如海浪潮汐，波折，起落，往复不休…",
+            "en": "The endless summer of the millennium came to an end.\n\nThe autumn wind blew across the gradually withering sea of flowers, carrying away the lie of endless summer, scattering longing and memory.\n……\n\nThe youths of days long past, unseen for so long, gathered once more in that old clubroom.\n\nThey had all grown up now, and beside them was a group of children as spirited and bright-eyed as they themselves had once been. The middle-aged man at the head of the group spoke slowly, telling the children the story of those years. The children listened with great interest, now and then striking a pose of deep thought, chiming in, vying to answer the little riddles the man posed.\n\n\"If it wasn't him who did it, then why did this 'Endless Summer' hydrangea turn up at the scene?\"\n\nThe boy who was clearly the ringleader of the pack rolled his little eyes round and round.\n\nSuddenly, as if struck by some idea, his eyes lit up.\n\n\"It must have been a yōkai who killed him!\"\n\nInside the room, on the small square table, a sugar cube spun and dissolved in a cup of coffee.\n\nThe wooden photo frame standing to one side was somewhat old, but had fortunately, it seemed, been carefully polished, and looked very clean. In the photograph, the youths' backs were still full of buoyant joy and hope.\n\nJust as, outside the photograph, the little ones sat gathered round the table.\n\nOutside the room, the wind rose again, ushering in another season of high summer.\n\nThe endless sea of blue flowers remained deep and unfathomable, like the tide of the ocean, rising and falling, ebbing and flowing, without end..."
+          },
+          "lang": "zh",
+          "tags": [],
+          "date": "2024-08-20",
+          "image": "",
+          "updatedAt": "2026-08-04T04:35:02.269Z"
+        },
         {
           "id": "msculuxr954lt",
           "name": {
